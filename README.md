@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Welcome on my GitHub profile! My name is Kevon Fernando and im Computer Engineering student.
+
+Please feel free to fork, contribute to or give feedback on my repositories.
 <!--
 **wdkevonfernando/wdkevonfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
